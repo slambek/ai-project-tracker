@@ -1,5 +1,3 @@
-# AI Project Tracker
-
 Task tracker with a Telegram bot, web dashboard and a local LLM.
 
 Runs locally with Qwen 2.5 via llama.cpp — no external API required.
